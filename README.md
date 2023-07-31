@@ -15,3 +15,4 @@ links :
 - https://www.aliexpress.com/i/4001118997655.html
   - 2W 0.35A
 - https://www.bheart.io/
+- https://www.werteloberfell.com/project/energy-harvesting-wristband-polar-prestige_archive/
