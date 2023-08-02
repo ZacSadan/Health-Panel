@@ -17,5 +17,6 @@ links :
 - https://www.bheart.io/
 - https://www.werteloberfell.com/project/energy-harvesting-wristband-polar-prestige_archive/
 
-
+DIY Air Blower
 https://www.youtube.com/watch?v=PFf10wdYW70
+https://www.youtube.com/watch?v=JQRE_d8wzBQ
