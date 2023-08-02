@@ -16,3 +16,6 @@ links :
   - 2W 0.35A
 - https://www.bheart.io/
 - https://www.werteloberfell.com/project/energy-harvesting-wristband-polar-prestige_archive/
+
+
+https://www.youtube.com/watch?v=PFf10wdYW70
