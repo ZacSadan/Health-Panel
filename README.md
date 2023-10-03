@@ -1,4 +1,4 @@
-# Health Panel
+# Mobile Phone Health Panel
 
 **Health Sensors requirements :**
 
