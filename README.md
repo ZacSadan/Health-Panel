@@ -38,7 +38,7 @@ Health wristband/watch analysis - not relevant anymore
 
 **Pros**
 - Can measure water/food consumption
- - is this working ? https://healbe.com/
+  - is this really working ? https://healbe.com/
 - Can alert on Heart attacks 
 - Measure steps ( but mobile phone can do it as well )
 - Sleep monitor ( but mobile phone can do it as well )
