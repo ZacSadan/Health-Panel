@@ -2,7 +2,7 @@
 
 **Health Sensors requirements :**
 
-- calories ( food / water )
+- calories [ food / water ( calorie intake, body hydration) ]
   - Bioimpedance sensor: is this really working ? https://healbe.com/
 - ECG
 - Heart rate
